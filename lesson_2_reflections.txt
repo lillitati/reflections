@@ -1,3 +1,19 @@
 What happens when you initialize a repository? Why do you need to do it?
 
-Git begins to track files. Otherwise it wont.
+Git creates a new file that in the future is part of tracking files.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+Files there are not yet tracket. More reedom to choose what to commit.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+Make comparison with git diff.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+Different versions of a game, experimental changes on code.
+
+How do the diagrams help you visualize the branch structure?
+
+Give idea what commits are reachable
